@@ -50,7 +50,7 @@ function Ocean() {
 				rotation={[0, -Math.PI * 0.25, 0]}
 				a={[6, 0.004]}
 				b={[0.2, 0.002]}
-				url={'http://10.88.30.4:8067'}
+				url={'http://localhost:8067'}
 			/>
 			<Bottle
 				scale={2}
@@ -59,7 +59,7 @@ function Ocean() {
 				rotation={[0, Math.PI * 0.25, 0]}
 				a={[5, 0.005]}
 				b={[0.2, 0.002]}
-				url={'http://10.88.30.4:8066'}
+				url={'http://localhost:8066'}
 			/>
 			<Bottle
 				content="再不然开始旅行"
@@ -68,7 +68,7 @@ function Ocean() {
 				rotation={[0, Math.PI * 0.8, 0]}
 				a={[5, 0.006]}
 				b={[0.2, 0.002]}
-				url={'http://10.88.30.4:8064'}
+				url={'http://localhost:8064'}
 			/>
 			<Bottle
 				content="但请保持好奇心"
@@ -77,7 +77,7 @@ function Ocean() {
 				rotation={[0, Math.PI * 0.4, 0]}
 				a={[6, 0.005]}
 				b={[0.2, 0.002]}
-				url={'http://10.88.30.4:8065'}
+				url={'http://localhost:8065'}
 			/>
 		</group>
 	);
