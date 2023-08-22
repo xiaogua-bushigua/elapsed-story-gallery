@@ -2,7 +2,7 @@
 
 ######  3D Photography Exhibition
 
-
+![image text](https://github.com/xiaogua-bushigua/elapsed-story-gallery/blob/master/screenshoot.png)
 
 ### 👉 a Web3D project based on react-three-fiber
 
