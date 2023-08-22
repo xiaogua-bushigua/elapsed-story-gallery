@@ -2,7 +2,7 @@
 
 ######  3D Photography Exhibition
 
-![](D:\frontend_learning\three\elapsed-story-gallery\GIF 2023-8-21 22-34-35.gif)
+
 
 ### 👉 a Web3D project based on react-three-fiber
 
